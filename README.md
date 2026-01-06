@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hestia.software">
-    <img src="https://hestia.software/images/logo.png" alt="Hestia Logo" width="200">
+    <img src="https://hestia.software/icons/logo-hestia-whatsapp.png" alt="Hestia Logo" width="200">
   </a>
 </p>
 
